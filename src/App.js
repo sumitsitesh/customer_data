@@ -3,7 +3,7 @@ import Displaydata from "./customerData";
 function App() {
   return (
     <div className="App">
-<Displaydata/>
+      <Displaydata />
     </div>
   );
 }
